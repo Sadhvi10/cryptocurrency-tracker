@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./index.css";
-import Coin from "./Coin";
+import Coin from "./components/Coin";
 
 function App() {
   const [coins, setCoins] = useState([]);
