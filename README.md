@@ -13,7 +13,7 @@ https://cryptocurrency-tracker-react-v1.netlify.app/
 
 ### Screenshots
 
-! [Crypto Currency](crypto-currency.png)
+![Crypto Currency](crypto-currency.png)
 
 ## Setup
 
