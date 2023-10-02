@@ -48,9 +48,14 @@ Before you begin, ensure you have met the following requirements:
 
 ## Usage
 
-1. **Real-Time Monitoring**: Cryptocurrency prices are notoriously volatile. A tracking app allows users to monitor prices in real time, making informed decisions about buying or selling.
-2. **Asynchronous Operations & Error Handling by Axios**: Axios allows the app to perform non-blocking operations, ensuring the user interface remains responsive even when fetching data. Axios provides comprehensive error handling, essential when dealing with real-time financial data.
-3. **Integration with External APIs**: Most cryptocurrency data is fetched from external sources. Axios simplifies the process of connecting to these external APIs, ensuring the app always displays up-to-date information.
+1. **Real-Time Monitoring**:
+Cryptocurrency prices are notoriously volatile. A tracking app allows users to monitor prices in real time, making informed decisions about buying or selling.
+   
+2. **Asynchronous Operations & Error Handling by Axios**:
+Axios allows the app to perform non-blocking operations, ensuring the user interface remains responsive even when fetching data. Axios provides comprehensive error handling, essential when dealing with real-time financial data.
+
+3. **Integration with External APIs**:
+Most cryptocurrency data is fetched from external sources. Axios simplifies the process of connecting to these external APIs, ensuring the app always displays up-to-date information.
 
 In summary, a cryptocurrency finance tracking app is required for real-time insights into the crypto market. 
 
@@ -58,10 +63,10 @@ In summary, a cryptocurrency finance tracking app is required for real-time insi
 
 Below are the few targeted audiences for the application but not limited to :
 
-- Cryptocurrency Investors: Individuals who have invested in cryptocurrencies and need to monitor the value of their investments in real-time.
-- Day Traders: Those who buy and sell cryptocurrencies on a daily basis to capitalize on short-term fluctuations in their prices.
-- Educational Institutions: Universities and colleges offering courses on blockchain and cryptocurrency might use such apps as teaching tools.
-- Financial Analysts: Professionals who analyze cryptocurrency markets for various purposes, including advising clients, writing reports, or making investment decisions for larger portfolios.
+- <u>Cryptocurrency Investors</u>: Individuals who have invested in cryptocurrencies and need to monitor the value of their investments in real-time.
+- <u>Day Traders</u>: Those who buy and sell cryptocurrencies on a daily basis to capitalize on short-term fluctuations in their prices.
+- <u>Educational Institutions</u>: Universities and colleges offering courses on blockchain and cryptocurrency might use such apps as teaching tools.
+- <u>Financial Analysts</u>: Professionals who analyze cryptocurrency markets for various purposes, including advising clients, writing reports, or making investment decisions for larger portfolios.
 
 
 
