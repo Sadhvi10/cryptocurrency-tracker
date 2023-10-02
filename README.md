@@ -11,7 +11,7 @@ https://cryptocurrency-tracker-react-v1.netlify.app/
 - HTTP Requests on Browser Functionality(Axios)
 - Live update once refreshed
 
-### Screenshots
+## Application Page
 
 ![Crypto Currency](crypto-currency.png)
 
