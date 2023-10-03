@@ -1,27 +1,32 @@
 # Cryptocurrency Tracker
 
-A Cryptocurrency finance price tracking application created using React and TailwindCSS. The Javascript library, Axios, facilitates asynchronous HTTP requests from a web browser or Node.js server to obtain currency-related data and retrieve corresponding results. Also, the prices are dynamically updated with each page refresh, sourcing information from a public API.
+A Cryptocurrency finance price tracking application created using React and TailwindCSS. The Javascript library, [Axios](https://www.npmjs.com/package/axios), facilitates asynchronous HTTP requests from a web browser or Node.js server to obtain currency-related data and retrieve corresponding results. Also, the prices are dynamically updated with each page refresh, sourcing information from a [public API](https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=100&page=1&sparkline=false).
 
-## Live Website
+🔍 Frameworks & Tools:
 
-https://cryptocurrency-tracker-react-v1.netlify.app/
+- **React**: [https://react.dev/](https://react.dev/)
+- **TailwindCSS**: [https://tailwindcss.com/](https://tailwindcss.com/)
 
-## Features
+## 🌐 Live Demo
 
-- HTTP Requests on Browser Functionality(Axios)
-- Live update once refreshed
+Experience the live version of the application [here](https://cryptocurrency-tracker-react-v1.netlify.app/).
 
-## Application Page
+## 🌟 Key Features
+
+- HTTP Requests on Browser Functionality(Axios).
+- Live update once refreshed.
+
+## 🖼️ Preview
 
 ![Crypto Currency](crypto-currency.png)
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Target Audience](#target-audience)
 
-## Installation
+## 🛠️ Installation
 
 Follow these steps to install and run the project on your local machine:
 
@@ -46,7 +51,7 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    npm i && npm run start
 
-## Usage
+## 🚀 Usage
 
 1. **Real-Time Monitoring**:
 Cryptocurrency prices are notoriously volatile. A tracking app allows users to monitor prices in real time, making informed decisions about buying or selling.
@@ -59,7 +64,7 @@ Most cryptocurrency data is fetched from external sources. Axios simplifies the 
 
 In summary, a cryptocurrency finance tracking app is required for real-time insights into the crypto market. 
 
-## Target Audience
+## 🚹 Target Audience
 
 Below are the few targeted audiences for the application but not limited to :
 
